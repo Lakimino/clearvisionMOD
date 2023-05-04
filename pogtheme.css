@@ -56,7 +56,7 @@
   --user-modal-blur: 0px;
   --home-icon: url('https://i.imgur.com/BXyCGGg.png');
   --home-position: center;
-  --home-size: 48px;
+  --home-size: 42px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
